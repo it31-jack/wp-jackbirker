@@ -14,4 +14,4 @@ docker compose up -d
 
 ![WordPress](screenshots/wp-jackbirker.png)
 ![phpMyAdmin](screenshots/php-jackbirker.png)
-
+![Wp-Editor](screenshots/wp-hallo.png)
