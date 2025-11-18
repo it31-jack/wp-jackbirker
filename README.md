@@ -1,4 +1,4 @@
-# wp-int-<teamkürzel>
+# WordPress - Lokale Applikation | Jack Birker IT31
 
 ## Setup der lokalen WordPress Umgebung
 
