@@ -28,5 +28,5 @@
   Frage: „Fehler bei Docker-Start, z.B. 'The system cannot find the file specified'“  
   Antwort: Docker Desktop neu starten, WSL2 neu starten, Docker-Dienst neu starten.
 
-**KI Prompts Datei anhand des Chats erstellen**
+- **KI Prompts Datei anhand des Chats erstellen**
 Frage: Erstelle mir bitte eine Datei im Markdown Format, in der du unsere Fragen und Antworten des jetzigen Chats aufführst. Kürze gerne ab - es wird eine KI_PROMPTS.md Datei
