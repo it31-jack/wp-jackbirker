@@ -12,6 +12,6 @@ docker compose up -d
 
 ## Screenshots
 
-![WordPress Setup](screenshots/wordpress-setup.png)
-![phpMyAdmin Login](screenshots/phpmyadmin-login.png)
+![WordPress](screenshots/wp-jackbirker.png)
+![phpMyAdmin](screenshots/php-jackbirker.png)
 
